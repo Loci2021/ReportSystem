@@ -1,0 +1,4 @@
+name: ReportSystem
+version: '${project.version}'
+main: de.loci2021.reportsystem.Main
+author: Loci2021
